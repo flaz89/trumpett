@@ -22,6 +22,7 @@
 1. Clone the repo:
    ```bash
    git clone https://github.com/flaz89/trumpett.git
+   install raylib libraries
    cd trumpett
    run project
    space_bar to jump
